@@ -25,7 +25,7 @@ public class MediaApplication extends Application {
             return;
         }
         appCtx = getApplicationContext();
-        initLeakCanary();
+//        initLeakCanary();
     }
 
     /**
