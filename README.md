@@ -52,7 +52,7 @@
 
 1. 我的
 
-![](D:\01_Download\逸帆音乐业务流程图.png)
+![Image text]( [https://github.com/Grekit-Sun-Coder/MediaPlayer_YiFan/blob/master/img_floder/%E9%80%B8%E5%B8%86%E9%9F%B3%E4%B9%90%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%9B%BE.png](https://github.com/Grekit-Sun-Coder/MediaPlayer_YiFan/blob/master/img_floder/逸帆音乐业务流程图.png) )
 
 
 
