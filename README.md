@@ -11,23 +11,23 @@
 
 - 所需掌握技术：
 
-  - MVP：项目是用的mvp搭建，在base文件夹中是Activity和Fragment的基类；
-- 我的界面布局:CoordinatorLayout + AppBarLayout;
+  - MVP：项目是用的mvp搭建，在base文件夹中是Activity和Fragment的基类；	
+  - 我的界面布局:CoordinatorLayout + AppBarLayout;
   
   - ViewPager + Fragment;
-- RecyclerView + Fragment;
+  - RecyclerView + Fragment;
   
   - Notification;
-- 数据库操作；
+  - 数据库操作；
   
   - sp操作；
-- 本地广播；
+  - 本地广播；
   
   - 动画；
-- 回调；
+  - 回调；
   
   - Activity启动模式；
-- RxJava实现线程的切换；
+  - RxJava实现线程的切换；
   
   ...
   
